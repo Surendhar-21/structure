@@ -1,0 +1,31 @@
+#include<stdio.h>
+Struct employee
+{  
+Char name ;
+int age;
+int phone;
+Float salary;
+}
+main()
+{   
+     Struct employee s;
+Printf("enter the worker details");
+For(i=0;i<20;i++)
+{ Printf ("enter details of %d employee,i+1);
+  Printf ("name");
+Scanf ("%s",&name.s[i]);
+
+Printf ("age");
+Scanf("%d",&age.s[i]);
+Printf ("phone number");
+Scanf("%d",& phone.s[i]);
+Printf (" salary");
+Scanf ("%f",& salary.s[i]);
+For(i=0;i<20;i++)
+{ Printf (" details of %d employee,i+1);
+Printf ("name\n%s\n",name.s[i]);
+Printf("age\n%d\n",age.s[i]);
+Printf("phone\n%d\n",  phone.s[i]);
+Printf ("salary\n%f\n", Salary.s[i]);
+} 
+}
